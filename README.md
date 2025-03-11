@@ -1,2 +1,2 @@
 # Planet-Express
-3D model of Planer Express
+3D model of Planet Express
